@@ -1,8 +1,20 @@
 # tradingview-webhooks
 
-AWS Lambda endpoint for executing Alpaca bracket orders
+AWS Lambda endpoint for executing Alpaca bracket orders. 
 
-# TradingView message format
+## Uses AWS Chalice Framework for Serverless Python:
+
+https://github.com/aws/chalice
+
+## Demo Video
+
+https://youtu.be/TKAo_Z-hzQs
+
+## Sign Up For TradingView with this link to support this channel/project
+
+https://tradingview.go2cloud.org/SH4Gl
+
+## TradingView message format
 
 ```
 {
